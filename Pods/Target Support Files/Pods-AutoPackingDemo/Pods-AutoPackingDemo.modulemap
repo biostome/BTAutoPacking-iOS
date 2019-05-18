@@ -1,0 +1,6 @@
+framework module Pods_AutoPackingDemo {
+  umbrella header "Pods-AutoPackingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
